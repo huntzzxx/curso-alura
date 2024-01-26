@@ -125,6 +125,9 @@ body {
         flex-direction: column-reverse;
         padding: 5%;
     }
+    .apresentacao__titulo {
+        font-size: 2rem;
+    }
     .apresentacao__conteudo {
         width: 143%;
     }
