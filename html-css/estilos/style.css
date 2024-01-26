@@ -1,8 +1,6 @@
-<style>
   @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
-</style>
 
 * {
     margin: 0;
@@ -29,7 +27,7 @@ body {
     font-family: 'Montserrat', 'sans-serif';
     font-size: 1.5rem;
     font-weight: 600;
-    color: #22D4FD;
+    color: #32CD32;
     text-decoration: none;
 }
 
@@ -47,7 +45,7 @@ body {
 }
 
 .titulo-destaque {
-    color: #22D4FD;
+    color: #32CD32;
 }
 
 .apresentacao__conteudo {
@@ -78,7 +76,7 @@ body {
 }
 
 .botoes__links {
-    border: 3px solid #22D4FD;
+    border: 3px solid #32CD32;
     display: flex;
     justify-content: center;
     gap: 16px;
@@ -108,7 +106,7 @@ body {
     padding: 24px;
     text-align: center;
     color: #000000;
-    background-color: #22D4FD;
+    background-color: #32CD32;
     font-family: 'Montserrat', 'sans-serif';
     font-weight: 400;
     font-size: 1.5rem;
