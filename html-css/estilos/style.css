@@ -120,6 +120,7 @@ body {
         justify-content: center;
         align-items: center;
         text-align: center;
+        gap: 40px;
     }
     .apresentacao {
         flex-direction: column-reverse;
